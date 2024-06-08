@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+
+body {
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+.password-toogle-icon {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 20px; /* Ajustez cette valeur selon votre préférence */
+    z-index: 1000;
+    cursor: pointer;
+}

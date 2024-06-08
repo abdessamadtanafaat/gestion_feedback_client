@@ -1,0 +1,76 @@
+{
+    
+    "contactInfo":{
+        "age":"Age",
+        "gender":"gender",
+        "FullName":"Full Name",
+        "email":"email",
+        "tel":"phone number"
+    },
+    "inputs":{
+        "select_gender":"select gender",
+        "male":"male",
+        "female":"female",
+        "your_age":"your age",
+        "your_name":"your name",
+        "your_email":"your email",
+        "your_phone":"your phone",
+        "save_feedback_and_continue":"save feedback and continue",
+        "participate":"participate"
+        
+    },
+    "questions":{
+        "first":"Please select your preferred language",
+        "second":"Please provide your gender and age",
+        "third":"Overall, are you satisfied with your experience",
+        "fourth":"Thank you for your feedback! To show our appreciation, we offer an optional loyalty program. If you`d like to participate and receive exclusive benefits, please click the button below to provide your contact information. If you prefer not to join, simply click the other button to proceed. Your previous answers have been saved. We value your input! Thank you.",
+        "five":"Please provide your contact information"
+
+    },
+    "body":{
+        "first_message":"How satisfied are you with our   ",
+        "second_message":"Overall, are you satisfied with your experience ",
+        "third_message":"Thank you for your feedback! To show our appreciation, we offer an optional loyalty program. If you`d like to participate and receive exclusive benefits, please click the button below to provide your contact information. If you prefer not to join, simply click the other button to proceed. Your previous answers have been saved. We value your input! Thank you."
+
+    },
+    "services": {
+        "Arrival assistance": "Arrival assistance",
+        "Room service": "Room service",
+        "Luggage service": "Luggage service",
+        "Reception": "Reception",
+        "Staff orientation": "Staff orientation",
+        "Express Check-in": "Express service",
+        "Check-in/check-out": "Check-in/check-out",
+        "Response to requests": "Response to requests",
+        "Climate Control": "Climate Control",
+        "Room Upgrades":"Room Upgrades",
+        "Brightness": "Brightness",
+        "24/7 Surveillance": "24/7 Surveillance",
+        "Access control": "Access control",
+        "Agreabilite": "Agreabilite",
+        "Staff": "Staff",
+        "Commercial space":"Commercial space",
+        "Guided Tours":"Guided Tours",
+        "Luggage Handling":"Luggage Handling",
+        "Concierge Services":"Concierge Services",
+        "Fast Clearance":"Fast Clearance",
+        "Priority Boarding":"Priority Boarding",
+        "Same-day Delivery":"Same-day Delivery",
+        "Swift Passage":"Swift Passage",
+        "Personalized Decor":"Personalized Decor",
+        "Relaxation Lounges":"Relaxation Lounges",
+        "Customized Dining":"Customized Dining",
+        "Secure Parking":"Secure Parking",
+        "Baggage Screening":"Baggage Screening",
+        "Emergency Response":"Emergency Response",
+        "Identity Verification":"Identity Verification",
+        "Data Encryption":"Data Encryption"
+    },
+    "notifications":{
+        "CouponCode":" Kindly present this reference to the responsible individual at our establishment to avail the associated benefits. We'll be in touch shortly with further instructions. Thank you for your continued support as a valued member of our community!",
+        "MysteryBox":"Congratulations! You've won the prize . We'll be contacting you soon to provide more information on how to claim your well-deserved reward. Thank you for participating and being a valuedmember of our community!",
+        "Loser":" Thank you for your participation! While you weren't selected as a winner this time, we truly appreciate your support and enthusiasm. Your continued engagement means a lot to us, and we look forward to keeping you updated on future opportunities and promotions."
+    }
+    
+   
+}

@@ -1,0 +1,21 @@
+.navBtn {
+ background-color:#273945; /* Change background color to white on hover */
+  color: white; /* Set text color to #273945 */
+  transition: color 0.3s ease; /* Add transition for smooth color change */
+}
+
+.navBtn:hover {
+  background-color: #ffffff; /* Change background color to white on hover */
+  color: #273945; /* Change text color to #273945 on hover */
+  font-weight: bold; /* Make the text bold on hover */
+  cursor:pointer;
+}
+.navBtn:disabled {
+  opacity: 0.5; /* Reduce opacity for disabled state */
+  cursor: not-allowed; /* Change cursor for disabled state */
+}
+.navBtn:disabled:hover {
+  background-color: #273945; /* Maintain background color */
+  color: white; /* Maintain text color */
+  font-weight:normal;
+}

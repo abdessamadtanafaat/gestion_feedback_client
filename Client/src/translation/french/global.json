@@ -1,0 +1,75 @@
+{
+    
+    "contactInfo": {
+        "age": "Âge",
+        "gender": "sexe",
+        "FullName": "Nom complet",
+        "email": "email",
+        "tel": "numéro de téléphone"
+    },
+    "inputs":{
+        "select_gender":"Sélectionnez le genre",
+        "male":"Homme",
+        "female":"Femme",
+        "your_age":"Votre âge",
+        "your_name":"Votre nom",
+        "your_email":"Votre email",
+        "your_phone":"Votre téléphone",
+        "save_feedback_and_continue":"Enregistrer et continuer",
+        "participate":"Participer"
+    },
+    "questions":{
+        "first":"Veuillez sélectionner votre langue préférée",
+        "second":"Veuillez indiquer votre sexe et votre âge",
+        "third":"Globalement, êtes-vous satisfait de votre expérience",
+        "fourth":"Merci pour votre retour ! Pour vous montrer notre appréciation, nous proposons un programme de fidélité facultatif. Si vous souhaitez y participer et recevoir des avantages exclusifs, veuillez cliquer sur le bouton ci-dessous pour fournir vos coordonnées. Si vous préférez ne pas rejoindre, cliquez simplement sur l'autre bouton pour continuer. Vos réponses précédentes ont été enregistrées. Nous apprécions votre contribution ! Merci.",
+        "five":"Veuillez fournir vos coordonnées de contact"
+
+    },
+    "body":{
+        "first_message": "À quel point êtes-vous satisfait de notre  ",
+        "second_message":"Globalement, êtes-vous satisfait de votre expérience  ",
+        "third_message": "Merci pour votre retour ! Pour vous montrer notre appréciation, nous proposons un programme de fidélité facultatif. Si vous souhaitez y participer et recevoir des avantages exclusifs, veuillez cliquer sur le bouton ci-dessous pour fournir vos coordonnées. Si vous préférez ne pas rejoindre, cliquez simplement sur l'autre bouton pour continuer. Vos réponses précédentes ont été enregistrées. Nous apprécions votre contribution ! Merci."
+          
+    },
+    "services": {
+        "Arrival assistance": "Assistance à l'arrivée",
+        "Room service": "Service en chambre",
+        "Luggage service": "Service de bagages",
+        "Reception": "Réception",
+        "Staff orientation": "Orientation du personnel",
+        "Express Check-in": "Enregistrement express",
+        "Check-in/check-out": "Enregistrement/sortie",
+        "Response to requests": "Réponse aux demandes",
+        "Climate Control": "Contrôle climatique",
+        "Room Upgrades":"Mises à niveau des chambres",
+        "Brightness": "Luminosité",
+        "24/7 Surveillance": "Surveillance 24/7",
+        "Access control": "Contrôle d'accès",
+        "Agreabilite": "Agreabilite",
+        "Staff": "Personnel",
+        "Commercial space":"Espace commercial",
+        "Guided Tours":"Visites guidées",
+        "Luggage Handling":"Gestion des bagages",
+        "Concierge Services":"Services de conciergerie",
+        "Fast Clearance":"Dédouanement rapide",
+        "Priority Boarding":"Embarquement prioritaire",
+        "Same-day Delivery":"Livraison le jour même",
+        "Swift Passage":"Passage rapide",
+        "Personalized Decor":"Décoration personnalisée",
+        "Relaxation Lounges":"Salons de détente",
+        "Customized Dining":"Repas personnalisés",
+        "Secure Parking":"Stationnement sécurisé",
+        "Baggage Screening":"Contrôle des bagages",
+        "Emergency Response":"Intervention d'urgence",
+        "Identity Verification":"Vérification d'identité",
+        "Data Encryption":"Cryptage des données"
+    },
+    "notifications":{
+        "CodeCoupon" : "Veuillez présenter cette référence à la personne responsable de notre établissement pour bénéficier des avantages associés. Nous vous contacterons sous peu avec de plus amples instructions. Merci pour votre soutien continu en tant que membre précieux de notre communauté !",
+        "MysteryBox" : "Félicitations ! Vous avez gagné le prix. Nous vous contacterons bientôt pour vous fournir plus d'informations sur la façon de réclamer votre récompense bien méritée. Merci de votre participation et d'être un membre précieux de notre communauté !",
+        "Loser": "Merci pour votre participation ! Bien que vous n'ayez pas été sélectionné(e) comme gagnant(e) cette fois-ci, nous apprécions vraiment votre soutien et votre enthousiasme. Votre engagement continu compte beaucoup pour nous, et nous avons hâte de vous tenir informé(e) des opportunités et promotions futures."
+    
+    }
+    
+}

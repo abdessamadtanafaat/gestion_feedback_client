@@ -1,0 +1,82 @@
+/* TW Elements is free under AGPL, with commercial license required for specific uses. See more details: https://tw-elements.com/license/ and contact us for queries at tailwind@mdbootstrap.com */ 
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&display=swap");
+@layer tailwind-base, primereact, tailwind-utilities;
+/* IMPORTANT: In "styled" mode you must add the PrimeReact Theme here. Do NOT include in "unstyled" mode */
+@import 'primereact/resources/themes/lara-light-blue/theme.css' layer(primereact);
+@layer tailwind-base {
+  @tailwind base;
+}
+
+@layer tailwind-utilities {
+  @tailwind components;
+  @tailwind utilities;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .bg-body-2f424f {
+    background-color: #2f424f;
+  }
+}
+
+@layer base {
+  html {
+    @apply text-surface;
+  }
+  html.dark {
+    @apply bg-body-2f424f;
+  }
+}
+
+
+
+p {
+  @apply leading-[1.6];
+}
+body {
+  margin: 0;
+  font-family: Quicksand;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+.hide-scroll-bar::-webkit-scrollbar {
+  display: none; /* Hide scrollbar for webkit browsers */
+}
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #ebe9e9;
+  border-radius: 5px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #979797;
+  border-radius: 5px;
+}
+
+  
+.slick-slide > div{
+  margin: 0 14px;
+}
+  
+.slick-prev:before {
+  color: #979797;
+}
+.slick-next:before {
+  color: #979797;
+}
+
+

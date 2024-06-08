@@ -1,0 +1,53 @@
+{
+    "begin":{
+    "first_message":"Por favor selecciona tu idioma preferido",
+    "second_message":"Por favor proporciona tu género y edad",
+    "third_message" : "Edad:",
+    "fourth_message": "Género:"
+    },
+    "questions":{
+    "first":"Por favor selecciona tu idioma preferido",
+    "second":"Por favor proporciona tu género y edad",
+    "third":"En general, ¿estás satisfecho con tu experiencia?",
+    "fourth":"¡Gracias por tu retroalimentación! Para mostrar nuestro agradecimiento, ofrecemos un programa de fidelización opcional. Si deseas participar y recibir beneficios exclusivos, por favor haz clic en el botón de abajo para proporcionar tu información de contacto. Si prefieres no unirte, simplemente haz clic en el otro botón para continuar. ¡Tus respuestas anteriores han sido guardadas. Valoramos tu opinión! Gracias.",
+    "five":"Por favor, proporcione su información de contacto"
+    },
+    "body":{
+    "first_message":"¿Qué tan satisfecho estás con nuestro servicio?",
+    "second_message":"En general, ¿estás satisfecho con tu experiencia?",
+    "third_message":"¡Gracias por tu retroalimentación! Para mostrar nuestro agradecimiento, ofrecemos un programa de fidelización opcional. Si deseas participar y recibir beneficios exclusivos, por favor haz clic en el botón de abajo para proporcionar tu información de contacto. Si prefieres no unirte, simplemente haz clic en el otro botón para continuar. ¡Tus respuestas anteriores han sido guardadas. Valoramos tu opinión! Gracias."
+    },
+    "services": {
+        "Arrival assistance": "Asistencia a la llegada",
+        "Room service": "Servicio de habitaciones",
+        "Luggage service": "Servicio de equipaje",
+        "Reception": "Recepción",
+        "Staff orientation": "Orientación del personal",
+        "Express Check-in": "Registro express",
+        "Check-in/check-out": "Registro/salida",
+        "Response to requests": "Respuesta a solicitudes",
+        "Climate Control": "Control climático",
+        "Room Upgrades":"Mejoras en la habitación",
+        "Brightness": "Brillo",
+        "24/7 Surveillance": "Vigilancia 24/7",
+        "Access control": "Control de acceso",
+        "Agreabilite": "Agreabilite",
+        "Staff": "Personal",
+        "Commercial space":"Espacio comercial",
+        "Guided Tours":"Visitas guiadas",
+        "Luggage Handling":"Manipulación de equipaje",
+        "Concierge Services":"Servicios de conserjería",
+        "Fast Clearance":"Despacho rápido",
+        "Priority Boarding":"Embarque prioritario",
+        "Same-day Delivery":"Entrega el mismo día",
+        "Swift Passage":"Tránsito rápido",
+        "Personalized Decor":"Decoración personalizada",
+        "Relaxation Lounges":"Salas de relajación",
+        "Customized Dining":"Comida personalizada",
+        "Secure Parking":"Estacionamiento seguro",
+        "Baggage Screening":"Detección de equipaje",
+        "Emergency Response":"Respuesta de emergencia",
+        "Identity Verification":"Verificación de identidad",
+        "Data Encryption":"Cifrado de datos"
+    }
+    }
